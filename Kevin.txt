@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello everyone! Hello this is cuzzo
+=======
+Hello everyone!
+Hey Kevin !
+>>>>>>> 420d29d0f763638c9315ca43f9af40c8d1c87c5a
